@@ -1,2 +1,3 @@
 Nome: Gilberto Falco 
-Descrição: Professor de Análise e Desenvolvimento de Sistemas
+Cargo: Professor
+Cursos: Engenharia de Software, Engenharia da Computação e Análise e Desenvolvimento de Sistemas
